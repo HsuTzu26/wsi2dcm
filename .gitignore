@@ -1,0 +1,13 @@
+# Config
+./config.json
+
+# iSyntax
+./api/iSyntax
+
+# pycache
+./__pycache__
+./api/__pycache__
+./utils/__pycache__
+
+# temp
+./temp

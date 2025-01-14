@@ -1,0 +1,5 @@
+{
+    "OPENSLIDE_PATH":"D:\\AUUFFC_code\\tool_codes\\p_tiff_to_dicom\\openslide",
+    "INPUT_FOLDER":"D:\\AUUFFC_data\\wsi\\ncku_wsi_nash\\batch_1\\image",
+    "OUTPUT_FOLDER":"D:\\AUUFFC_code\\tool_codes\\p_tiff_to_dicom\\dcm"
+}
